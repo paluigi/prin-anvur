@@ -154,3 +154,9 @@ cython_debug/
 # Ignore all files in data except the info
 data/*
 !data/info.md
+
+# Development notebook
+dev.ipynb
+
+# Pyenv Python version
+.python-version

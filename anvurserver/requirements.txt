@@ -1,0 +1,6 @@
+requests>=2.31.0
+pandas==1.5.3
+beautifulsoup4>=4.12.2
+pypdf-table-extraction[base]>=0.0.1
+ghostscript>=0.7
+tinydb>=4.8.0
