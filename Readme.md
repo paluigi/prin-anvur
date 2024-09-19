@@ -4,6 +4,8 @@ Anvur is the Italian entity providing abilitations for Associate and Full Univer
 
 The aim of this app is to facilitate search of journals listed by Anvur and provide additional information from Scimago Journal Rank. This app is divided into two components: server and client.
 
+Live demo at [https://anvur.pages.dev/](https://anvur.pages.dev/).
+
 ## Server
 The server downloads and parses PDF files from Anvur website to extract and structure information about journals.
 
