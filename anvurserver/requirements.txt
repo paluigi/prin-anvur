@@ -1,6 +1,7 @@
 requests>=2.31.0
-pandas==1.5.3
+fastapi[standard]>=0.114.2
 beautifulsoup4>=4.12.2
 pypdf-table-extraction[base]>=0.0.1
 ghostscript>=0.7
 tinydb>=4.8.0
+opencv-python-headless>=4.10.0.84

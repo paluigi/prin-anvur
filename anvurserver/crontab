@@ -1,0 +1,1 @@
+1 3 * * * python /app/scraping_anvur.py
