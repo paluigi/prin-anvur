@@ -221,6 +221,7 @@ def main(page):
         ft.ElevatedButton("Search", on_click=search_click),
         details,
         lv,
+        ft.ElevatedButton("GitHub", url="https://github.com/paluigi/prin-anvur"),
     )
     # Make the page scrollable
     page.scroll = ft.ScrollMode.ADAPTIVE
